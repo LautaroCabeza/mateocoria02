@@ -1,4 +1,4 @@
-* <h2>👋 hola, mateo coria
+* <h2>👋 hola, mateo escoria
 * 👍 estudiante del impa
 * ✔aprendiendo lenguaje c
 
